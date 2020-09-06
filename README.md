@@ -1,2 +1,1 @@
-# CustomPrint
-Test project for custom print 
+# Servlet and jsp application for Login application using mysql database
